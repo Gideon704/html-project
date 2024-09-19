@@ -1,0 +1,11 @@
+#myContainer{
+    position: relative;
+    background-color: rgb(231, 228, 228);
+    text-align: center;
+    padding: 3px;
+    margin-top: 4px;
+}
+
+.image_container img{
+    width: 100vh;
+}
